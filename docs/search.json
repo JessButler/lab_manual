@@ -1,0 +1,12 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "NHS Grampian Networked Data Lab Manual",
+    "section": "",
+    "text": "Welcome\nWe’ve gathered up best practice for data science in the NHS. Use the menu on the left to navigate.\n\nOur guiding principles\nOur team follows the Government’s recommendations on Modern, open working methods for NHS data\n\nBuild, don’t buy\nAnalysts are coders\nWork by reproducible analytical pipelines\nOpen code, analysis and research\nGrow talent and create a modern profession",
+    "crumbs": [
+      "Welcome"
+    ]
+  }
+]
