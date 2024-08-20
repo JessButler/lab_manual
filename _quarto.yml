@@ -1,9 +1,9 @@
 project:
   type: book
-  output-dir: docs
+  output-dir: book
 
 book:
-  title: "NHS Grampian Networked Data Lab Team"
+  title: "NHS Grampian Networked Data Lab Manual"
   author: 
     - Jess Butler, Lead Data Scientist
     - You too
