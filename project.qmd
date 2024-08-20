@@ -1,21 +1,14 @@
-# Networked Data Lab Overview {.unnumbered}
+# Grant Overview {.unnumbered}
 
-### Grant
 Our Grampian Networked Data Lab has been funded by The Health Foundation for £900,000 and is running through 2026.  
 
-### Goal
-The Health Foundation has created analytics teams embedded at five local NHSes across the UK (Grampian, Leeds, Liverpool, Northwest London and Wales). These teams make up the Networked Data Lab. The teams link large-scale, high-security health data, then create open software tools and analysis to help national and local leaders improve care.  
+The Health Foundation has created analytics teams embedded at five local NHSes across the UK (Grampian, Leeds, Liverpool, Northwest London and Wales). These teams make up the Networked Data Lab. 
 
-### Grampian Team
-The NDL team funded by this grant are Jess Butler, Raul, Michael Lackenby, and Project Manager. NHS Grampian has allocated Health Intelligence staff to this project as well: Corri Black and Frank Popham.  
-[Website](https://www.health.org.uk/funding-and-partnerships/our-partnerships/the-networked-data-lab)  
+The project goal is for the 5 sites to link large-scale, high-security health data, then create open software tools and analysis to help national and local leaders improve care.  
 
-### Health Foundation Team
-The Networked Data Lab project is run by Cham and Hannah Knight
+Health Foundation's official [Networked Data Lab Website](https://www.health.org.uk/funding-and-partnerships/our-partnerships/the-networked-data-lab)
 
 ### Related work
-Aberdeen's Health Data Research Collaborative
-Funded by NIHR, National Institute for Health and Care Research for £5M  
-Running through 2028  
-Team: Martin Murchie, Shantini Paranjothy, Michael Lackenby, Helen  
-[Website](https://www.nihr.ac.uk/explore-nihr/support/health-determinants-research-collaborations.htm)
+[Aberdeen's Health Data Research Collaborative](https://www.nihr.ac.uk/explore-nihr/support/health-determinants-research-collaborations.htm)  
+Funded by NIHR, National Institute for Health and Care Research for £5M through 2028  
+

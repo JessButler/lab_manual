@@ -9,27 +9,23 @@ SQL, R or Python for scripts
 
 Git for version control
 
-R/Python notebooks for development
+Code notebooks for development and publication  
+
+Code review  
 
 All analysis gets an identifier (DOI)
 
-Research shared openly (NHS website, MedRxiv)
-
-### Questions
-
-How are procedures / code / analysis stored centrally at NHSG?
-
-Can we get Gitlab (what do NHSR folks recommend?)
-
-How does testing and code review work at NHSG?
+Research shared openly (Github, MedRxiv, blogs, etc)
 
 ### Record Keeping
 
-Keep daily tasks log to evaluate time allocation
+Keep daily tasks log  
 
-Keep brag sheet, we pass highlights upward fortnightly
+Pass brag-sheet highlights upwards  
 
-Contribute to quarterly report
+Contribute to quarterly report  
+
+Impact log  
 
 ### Technical Details
 

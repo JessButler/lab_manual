@@ -1,47 +1,41 @@
 # People {.unnumbered}
 
-### Public Health Intelligence Team
-Corri Black, Director, Aberdeen Centre Health Data Science  
+### NHS Grampian Networked Data Lab Team
 Jessica Butler, Lead Data Scientist  
 Frank Popham, Senior Data Scientist  
-Andrea Canale, Senior Data Engineer  
-Richard Slessor, Senior Analyst  
-Pamela Lowbridge, Senior Analyst  
-Andrea Gilmartin, Researcher  
-Jacqueline Bell, Researcher  
-Project Manager
+Corri Black, STAT lead and Consultant in Public Health  
 
-### University of Aberdeen Team
-Corri Black, Director,  Aberdeen Centre Health Data Science  
-Sharon Gordon, Coordinator, Aberdeen Centre Health Data Science   
-Kate O'Sullivan, Lead, Grampian Data Safe Haven  
-Michael Lackenby, Analyst, Grampian Data Safe Haven  
-Raul X-Y, Research Fellow  
+### University of Aberdeen Networked Data Lab Team
+Raul Berrocal-Martin, Research Fellow    
+Sharon Gordon, Coordinator  
+New Hire, Lead, Grampian Data Safe Haven  
+Bernhard Scheliga, Analyst, Grampian Data Safe Haven  
 Will Ball, Research Fellow, now at Robert Gordon University  
 Dimitra Blana, Lecturer  
-Gail Mew, Administrator
+Irmina Zborowska, Project Administrator and Impact Officer
 
 ### Health Foundation Team
-Charles Tallack, Director of Data Analytics 
+Charles Tallack, Director of Data Analytics  
 Kathryn Marszalek, Senior Analytical Manager  
 Hannah Knight, Senior Analytical Manager  
-Cham
+Caroline Fraser, Analyst  
+Tom Prendergast, Analyst  
+Cham Kifetew, Program Manager  
 Zoe Ruziczka, Programme Officer 
 
-### Health Intelligence Team
+### Health Intelligence Collaborators
 Jillian Evans, Head of Health Intelligence  
-Craig Paterson, Head of Digital   
+Craig Paterson  
 Elaine Thompson   
 Adam Gatcombe  
+Richard Slessor  
 Greg Cook  
 Payal Narula  
 
-## Aberdeen City Council Team
+### Aberdeen City Council Collaborators
 Martin Murchie, Chief Officer (Data and Insights)  
 Caroline Anderson, Information and Data Manager  
-Helen?, Project Manager  
+Helen Cannings, Project Manager / Governance 
 
-## Public Health Team
-Shantini Paranjothy, Consultant  
-Paul Southworth, Consultant  
-Peter  
+### Aberdeenshire Collaborators
+Tom Fensome

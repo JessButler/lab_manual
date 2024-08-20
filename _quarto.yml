@@ -3,19 +3,18 @@ project:
   output-dir: book
 
 book:
-  title: "Grampian Networked Data Lab"
+  title: "NHS Grampian Networked Data Lab Team"
   author: 
     - Jess Butler, Lead Data Scientist
-    - Whoever else
+    - You too
   #date: "04/08/2023"
   chapters:
     - index.qmd
     - project.qmd
-    - workflow.qmd
-    - data_sources.qmd
-    - code.qmd
-    - research.qmd
     - people.qmd
+    - workflow.qmd
+    - research.qmd
+    - code.qmd
     - peer_groups.qmd
     - references.qmd
 
