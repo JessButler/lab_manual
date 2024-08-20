@@ -20,6 +20,16 @@
     ]
   },
   {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "NHS Grampian Networked Data Lab Team\nJessica Butler, Lead Data Scientist\nFrank Popham, Senior Data Scientist\nCorri Black, STAT lead and Consultant in Public Health\n\n\nUniversity of Aberdeen Networked Data Lab Team\nRaul Berrocal-Martin, Research Fellow\nSharon Gordon, Coordinator\nNew Hire, Lead, Grampian Data Safe Haven\nBernhard Scheliga, Analyst, Grampian Data Safe Haven\nWill Ball, Research Fellow, now at Robert Gordon University\nDimitra Blana, Lecturer\nIrmina Zborowska, Project Administrator and Impact Officer\n\n\nHealth Foundation Team\nCharles Tallack, Director of Data Analytics\nKathryn Marszalek, Senior Analytical Manager\nHannah Knight, Senior Analytical Manager\nCaroline Fraser, Analyst\nTom Prendergast, Analyst\nCham Kifetew, Program Manager\nZoe Ruziczka, Programme Officer\n\n\nHealth Intelligence Collaborators\nJillian Evans, Head of Health Intelligence\nCraig Paterson\nElaine Thompson\nAdam Gatcombe\nRichard Slessor\nGreg Cook\nPayal Narula\n\n\nAberdeen City Council Collaborators\nMartin Murchie, Chief Officer (Data and Insights)\nCaroline Anderson, Information and Data Manager\nHelen Cannings, Project Manager / Governance\n\n\nAberdeenshire Collaborators\nTom Fensome",
+    "crumbs": [
+      "People"
+    ]
+  },
+  {
     "objectID": "workflow.html",
     "href": "workflow.html",
     "title": "Workflow",
@@ -27,26 +37,6 @@
     "text": "The Bible\nThe Turing Way handbook to reproducible, ethical and collaborative data science\n\n\nOverview\nSQL, R or Python for scripts\nGit for version control\nCode notebooks for development and publication\nCode review\nAll analysis gets an identifier (DOI)\nResearch shared openly (Github, MedRxiv, blogs, etc)\n\n\nRecord Keeping\nKeep daily tasks log\nPass brag-sheet highlights upwards\nContribute to quarterly report\nImpact log\n\n\nTechnical Details\nR Workflow for Medical Research",
     "crumbs": [
       "Workflow"
-    ]
-  },
-  {
-    "objectID": "data_sources.html",
-    "href": "data_sources.html",
-    "title": "Data Sources",
-    "section": "",
-    "text": "NHSG Data Map\n\n\nAccess Requirements\n\n\nNational Data",
-    "crumbs": [
-      "Data Sources"
-    ]
-  },
-  {
-    "objectID": "code.html",
-    "href": "code.html",
-    "title": "Writing Code",
-    "section": "",
-    "text": "The Big Picture\nGood Coding Practices for Data Analysts\n\n\nThe Bare Minimum\nGood enough practices in scientific computing\n\n\nLearning R\nR for Data Science\nModern Data Science\n\n\nWorkflow & Troubleshooting\nWhat They Forgot to Teach You About R\n\n\nVersion Control\nHow to use git",
-    "crumbs": [
-      "Writing Code"
     ]
   },
   {
@@ -60,33 +50,13 @@
     ]
   },
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Writing Code",
     "section": "",
-    "text": "NHS Grampian Networked Data Lab Team\nJessica Butler, Lead Data Scientist\nFrank Popham, Senior Data Scientist\nCorri Black, STAT lead and Consultant in Public Health\n\n\nUniversity of Aberdeen Networked Data Lab Team\nRaul Berrocal-Martin, Research Fellow\nSharon Gordon, Coordinator\nNew Hire, Lead, Grampian Data Safe Haven\nBernhard Scheliga, Analyst, Grampian Data Safe Haven\nWill Ball, Research Fellow, now at Robert Gordon University\nDimitra Blana, Lecturer\nIrmina Zborowska, Project Administrator and Impact Officer\n\n\nHealth Foundation Team\nCharles Tallack, Director of Data Analytics\nKathryn Marszalek, Senior Analytical Manager\nHannah Knight, Senior Analytical Manager\nCaroline Fraser, Analyst\nTom Prendergast, Analyst\nCham Kifetew, Program Manager\nZoe Ruziczka, Programme Officer\n\n\nHealth Intelligence Collaborators\nJillian Evans, Head of Health Intelligence\nCraig Paterson\nElaine Thompson\nAdam Gatcombe\nRichard Slessor\nGreg Cook\nPayal Narula\n\n\nAberdeen City Council Collaborators\nMartin Murchie, Chief Officer (Data and Insights)\nCaroline Anderson, Information and Data Manager\nHelen Cannings, Project Manager / Governance\n\n\nAberdeenshire Collaborators\nTom Fensome",
+    "text": "The Big Picture\nGood Coding Practices for Data Analysts\n\n\nThe Bare Minimum\nGood enough practices in scientific computing\n\n\nLearning R\nR for Data Science\nModern Data Science\n\n\nWorkflow & Troubleshooting\nWhat They Forgot to Teach You About R\n\n\nVersion Control\nHow to use git",
     "crumbs": [
-      "People"
-    ]
-  },
-  {
-    "objectID": "people.html#aberdeen-city-council-team",
-    "href": "people.html#aberdeen-city-council-team",
-    "title": "People",
-    "section": "Aberdeen City Council Team",
-    "text": "Aberdeen City Council Team\nMartin Murchie, Chief Officer (Data and Insights)\nCaroline Anderson, Information and Data Manager\nHelen?, Project Manager",
-    "crumbs": [
-      "People"
-    ]
-  },
-  {
-    "objectID": "people.html#public-health-team",
-    "href": "people.html#public-health-team",
-    "title": "People",
-    "section": "Public Health Team",
-    "text": "Public Health Team\nShantini Paranjothy, Consultant\nPaul Southworth, Consultant\nPeter",
-    "crumbs": [
-      "People"
+      "Writing Code"
     ]
   },
   {
@@ -107,26 +77,6 @@
     "text": "Briefing papers and Academic papers\nImproving children and young people’s mental health services\nInequalities in children’s mental health care: analysis of routinely collected data on prescribing and referrals to secondary care\nAssessing the impact of COVID-19 on the clinically extremely vulnerable population\nThe clinically extremely vulnerable to COVID: Identification and changes in healthcare while self-isolating (shielding) during the coronavirus pandemic\n\n\nInteractive Websites\nPoverty and emergency hospital admissions\nOvercrowding and vaccine needs\nFunding in priority neighbourhoods",
     "crumbs": [
       "Publications"
-    ]
-  },
-  {
-    "objectID": "people.html#aberdeen-city-council-collaborators",
-    "href": "people.html#aberdeen-city-council-collaborators",
-    "title": "People",
-    "section": "Aberdeen City Council Collaborators",
-    "text": "Aberdeen City Council Collaborators\nMartin Murchie, Chief Officer (Data and Insights)\nCaroline Anderson, Information and Data Manager\nHelen Cannings, Project Manager / Governance",
-    "crumbs": [
-      "People"
-    ]
-  },
-  {
-    "objectID": "people.html#aberdeenshire-collaborators",
-    "href": "people.html#aberdeenshire-collaborators",
-    "title": "People",
-    "section": "Aberdeenshire Collaborators",
-    "text": "Aberdeenshire Collaborators\nTom Fensome",
-    "crumbs": [
-      "People"
     ]
   }
 ]

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>NHS Grampian Networked Data Lab Team - Grant Overview</title>
+<title>NHS Grampian Networked Data Lab Team - Designing Analysis</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./people.html" rel="next">
-<link href="./index.html" rel="prev">
+<link href="./code.html" rel="next">
+<link href="./workflow.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -81,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./project.html">Grant Overview</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./research.html">Designing Analysis</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -114,7 +114,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./project.html" class="sidebar-item-text sidebar-link active">
+  <a href="./project.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Grant Overview</span></a>
   </div>
 </li>
@@ -132,7 +132,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./research.html" class="sidebar-item-text sidebar-link">
+  <a href="./research.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Designing Analysis</span></a>
   </div>
 </li>
@@ -164,7 +164,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#related-work" id="toc-related-work" class="nav-link active" data-scroll-target="#related-work">Related work</a></li>
+  <li><a href="#what-is-the-analysis-question" id="toc-what-is-the-analysis-question" class="nav-link active" data-scroll-target="#what-is-the-analysis-question">What is the analysis question?</a></li>
+  <li><a href="#design-the-tables-and-figures" id="toc-design-the-tables-and-figures" class="nav-link" data-scroll-target="#design-the-tables-and-figures">Design the tables and figures</a></li>
+  <li><a href="#write-pseudocode" id="toc-write-pseudocode" class="nav-link" data-scroll-target="#write-pseudocode">Write pseudocode</a></li>
+  <li><a href="#work-reproducibly" id="toc-work-reproducibly" class="nav-link" data-scroll-target="#work-reproducibly">Work reproducibly</a></li>
+  <li><a href="#publish-code-and-analysis" id="toc-publish-code-and-analysis" class="nav-link" data-scroll-target="#publish-code-and-analysis">Publish code and analysis</a></li>
+  <li><a href="#go-back-to-your-stakeholders" id="toc-go-back-to-your-stakeholders" class="nav-link" data-scroll-target="#go-back-to-your-stakeholders">Go back to your stakeholders</a></li>
+  <li><a href="#an-honest-plan" id="toc-an-honest-plan" class="nav-link" data-scroll-target="#an-honest-plan">An Honest Plan</a></li>
+  <li><a href="#science-before-statistics" id="toc-science-before-statistics" class="nav-link" data-scroll-target="#science-before-statistics">Science before Statistics</a></li>
   </ul>
 </nav>
     </div>
@@ -173,7 +180,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Grant Overview</h1>
+<h1 class="title">Designing Analysis</h1>
 </div>
 
 
@@ -190,14 +197,56 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Our Grampian Networked Data Lab has been funded by The Health Foundation for £900,000 and is running through 2026.</p>
-<p>The Health Foundation has created analytics teams embedded at five local NHSes across the UK (Grampian, Leeds, Liverpool, Northwest London and Wales). These teams make up the Networked Data Lab.</p>
-<p>The project goal is for the 5 sites to link large-scale, high-security health data, then create open software tools and analysis to help national and local leaders improve care.</p>
-<p>Health Foundation’s official <a href="https://www.health.org.uk/funding-and-partnerships/our-partnerships/the-networked-data-lab">Networked Data Lab Website</a></p>
-<section id="related-work" class="level3">
-<h3 class="anchored" data-anchor-id="related-work">Related work</h3>
-<p><a href="https://www.nihr.ac.uk/explore-nihr/support/health-determinants-research-collaborations.htm">Aberdeen’s Health Data Research Collaborative</a><br>
-Funded by NIHR, National Institute for Health and Care Research for £5M through 2028</p>
+<section id="what-is-the-analysis-question" class="level3">
+<h3 class="anchored" data-anchor-id="what-is-the-analysis-question">What is the analysis question?</h3>
+<p>Be very clear about the goal of the analysis. Do you want to <a href="https://www.tandfonline.com/doi/full/10.1080/09332480.2019.1579578">describe, predict, or explain?</a></p>
+<p>Explictly state the <a href="https://www.ema.europa.eu/en/documents/scientific-guideline/ich-e9-r1-addendum-estimands-sensitivity-analysis-clinical-trials-guideline-statistical-principles_en.pdf">target measures for estimation</a>. What is the population of interest? Who should be being compared? What conditions or outcomes are important? Which summary measures should be reported (difference in proportions, risk ratio, risk difference, conditional or marginal effect)? How should events affecting the interpretation (missing data, loss-to-follow-up, death, service changes) be handled?</p>
+<p>Then measure how the available data differ from the data required. Do we have the data for the target population? For the desired outcomes? How might the data we have be biased? How will this be accomodated in the research?</p>
+<p>Draw the underlying premises in terms of a directed acyclic graph, or <a href="https://sites.bu.edu/causal/dags/dag-resources/">DAG</a></p>
+<p><a href="https://www.bmj.com/content/379/bmj-2022-072883">The British Medical Journal’s advice for avoiding analytical errors</a></p>
+</section>
+<section id="design-the-tables-and-figures" class="level3">
+<h3 class="anchored" data-anchor-id="design-the-tables-and-figures">Design the tables and figures</h3>
+<p>Before data are accessed, draw up the exact format of the analysis output. Create tables with headings and row descriptions, and graphs with labeled axes and descriptions. This is helpful to ensure the estimands have been stated sufficiently clearly.</p>
+</section>
+<section id="write-pseudocode" class="level3">
+<h3 class="anchored" data-anchor-id="write-pseudocode">Write pseudocode</h3>
+<p>Outline the code needed to create the tables and figures as designed.</p>
+</section>
+<section id="work-reproducibly" class="level3">
+<h3 class="anchored" data-anchor-id="work-reproducibly">Work reproducibly</h3>
+<p>Automate</p>
+</section>
+<section id="publish-code-and-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="publish-code-and-analysis">Publish code and analysis</h3>
+<p>We default to open - per NHS Guidelines Include the code as part of the output Get a DOI for the output Archive the project in place X</p>
+</section>
+<section id="go-back-to-your-stakeholders" class="level3">
+<h3 class="anchored" data-anchor-id="go-back-to-your-stakeholders">Go back to your stakeholders</h3>
+<p>Present your analysis in person<br>
+Show one table or graph per slide<br>
+Put the conclusion as the slide title<br>
+As what surprises the audience about the analysis</p>
+</section>
+<section id="an-honest-plan" class="level3">
+<h3 class="anchored" data-anchor-id="an-honest-plan">An Honest Plan</h3>
+<p>From Richard McElreath’s <a href="https://elevanth.org/blog/2023/06/13/science-and-the-dumpster-fire/">An honest plan for modest research</a></p>
+<blockquote class="blockquote">
+<p>ONE. What are we even trying to learn? Too much research nominates some big problem, finds some data that is metaphorical related to it, computes some (adjusted) associations, then tells a story about the significant results. Along the way, it’s not clear what we’ve learned, because there was no clear quantitative goal at the start. We need to define the phenomenon, the alternative explanations, and what estimates would help us distinguish among them or refine them.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>TWO. What is the ideal data for achieving the goals from ONE? This must be argued using an explicit, logical or computational model of the phenomenon. Prove it. Don’t appeal to intuition. Simulate or deduce. Yes, everything will depend upon assumptions. But a conclusion that doesn’t depend upon assumptions is rarely of value. Data themselves are insufficient.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>THREE. What data do we actually have? What data can we acquire? How are these data sources different from the ideal on TWO? What is missing? Which proxies exist? How does error creep in? What are the causes of the missing data and measurement error? Is there selection bias? Nearly always. So model it as well. These are generative modeling assumptions, and we need them for the next part.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>FOUR. Is there a statistical way to use TWO and THREE to learn about ONE? Again, this must be demonstrated logically. Ad hoc, non-generative estimators can work if you get lucky, but their track record is very poor. Prove the analysis will work on synthetic data or otherwise do your best to describe the problems that concern you. But the usual tactic of “we cannot exclude confounding but here are the associations and we want to base policy on the notion they are causal” is neither justifiable nor ethical.”</p>
+</blockquote>
+</section>
+<section id="science-before-statistics" class="level3">
+<h3 class="anchored" data-anchor-id="science-before-statistics">Science before Statistics</h3>
+<p>Richard McElreath on <a href="https://www.youtube.com/watch?v=KNPYUVmY3NM">How to choose variables for models</a></p>
 
 
 </section>
@@ -614,13 +663,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./index.html" class="pagination-link" aria-label="Welcome">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Welcome</span>
+      <a href="./workflow.html" class="pagination-link" aria-label="Workflow">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Workflow</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./people.html" class="pagination-link" aria-label="People">
-        <span class="nav-page-text">People</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./code.html" class="pagination-link" aria-label="Writing Code">
+        <span class="nav-page-text">Writing Code</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
