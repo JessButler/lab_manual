@@ -12,8 +12,8 @@ book:
     - index.qmd
     - project.qmd
     - people.qmd
-    - workflow.qmd
     - research.qmd
+    - workflow.qmd
     - code.qmd
     - peer_groups.qmd
     - references.qmd

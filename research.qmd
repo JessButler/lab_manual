@@ -27,17 +27,21 @@ Automate
 
 ### Publish code and analysis
 
-We default to open - per NHS Guidelines
-Include the code as part of the output
-Get a DOI for the output
-Archive the project in place X
+We default to open - per NHS Guidelines  
+Include the code as part of the output  
+Get a DOI for the output  
+Archive the project  
 
 ### Go back to your stakeholders
 
-Present your analysis in person  
+Present your analysis widely  
 Show one table or graph per slide  
 Put the conclusion as the slide title  
-As what surprises the audience about the analysis
+Ask what surprises the audience about the analysis  
+
+### Science before Statistics
+
+Richard McElreath on [How to choose variables for models](https://www.youtube.com/watch?v=KNPYUVmY3NM)
 
 
 ### An Honest Plan
@@ -52,6 +56,3 @@ From Richard McElreath's [An honest plan for modest research](https://elevanth.o
 
 > FOUR. Is there a statistical way to use TWO and THREE to learn about ONE? Again, this must be demonstrated logically. Ad hoc, non-generative estimators can work if you get lucky, but their track record is very poor. Prove the analysis will work on synthetic data or otherwise do your best to describe the problems that concern you. But the usual tactic of "we cannot exclude confounding but here are the associations and we want to base policy on the notion they are causal" is neither justifiable nor ethical."
 
-### Science before Statistics
-
-Richard McElreath on [How to choose variables for models](https://www.youtube.com/watch?v=KNPYUVmY3NM)
